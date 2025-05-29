@@ -1,0 +1,17 @@
+Create a hierarchical network composed of three layers: 
+    Core Layer – Minimum of 2 core routers or switches. 
+    Aggregation/Distribution Layer – Minimum of 3 devices. 
+    Access Layer – Minimum of 4 access switches.
+
+Step 1: Create devices:
+    Add 2 core routers.
+    Add 3 distribution switches.
+    Add 4 access switches.
+    minimum 2 device each switch
+
+Step 2: Interconnect devices:
+
+    Use high-speed links (Gigabit Ethernet) for core-distribution connections.
+    Use Fast Ethernet or Gigabit Ethernet for distribution-access connections.
+
+labelling each layers
